@@ -1,0 +1,29 @@
+﻿Build started 2016-01-28 17:39:25.
+     1>Project "\\hsnas6\StudentHome\2015\a15axeka\Documents\GitHub\EntitiesPlayer\Updated and Working\Project_Player\Project\Project\Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"\\hsnas6\StudentHome\2015\a15axeka\Downloads\SFML-2.3.2-windows-vc12-32-bit\SFML-2.3.2\include" /I"C:\Users\Hellkor\Downloads\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Button.cpp Game.cpp
+         Button.cpp
+     1>\\hsnas6\studenthome\2015\a15axeka\documents\github\entitiesplayer\updated and working\project_player\project\project\button.cpp(21): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         Generating Code...
+     1>\\hsnas6\studenthome\2015\a15axeka\documents\github\entitiesplayer\updated and working\project_player\project\project\button.cpp(45): warning C4715: 'Button::getInteraction' : not all control paths return a value
+         Compiling...
+         Game.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\hsnas6\StudentHome\2015\a15axeka\Documents\GitHub\EntitiesPlayer\Updated and Working\Project_Player\Project\Debug\Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:"\\hsnas6\StudentHome\2015\a15axeka\Downloads\SFML-2.3.2-windows-vc12-32-bit\SFML-2.3.2\lib" /LIBPATH:"C:\Users\Hellkor\Downloads\SFML-2.3.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" "sfml-audio-d.lib" "sfml-network-d.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\hsnas6\StudentHome\2015\a15axeka\Documents\GitHub\EntitiesPlayer\Updated and Working\Project_Player\Project\Debug\Project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\hsnas6\StudentHome\2015\a15axeka\Documents\GitHub\EntitiesPlayer\Updated and Working\Project_Player\Project\Debug\Project.lib" /MACHINE:X86 Debug\Button.obj
+         Debug\Cat1.obj
+         Debug\Channel.obj
+         Debug\Channels.obj
+         Debug\Controller.obj
+         Debug\Entity.obj
+         Debug\Game.obj
+         Debug\GameObject.obj
+         Debug\Main.obj
+         Debug\Player.obj
+         Debug\TextureHandler.obj
+         Project.vcxproj -> \\hsnas6\StudentHome\2015\a15axeka\Documents\GitHub\EntitiesPlayer\Updated and Working\Project_Player\Project\Debug\Project.exe
+     1>Done Building Project "\\hsnas6\StudentHome\2015\a15axeka\Documents\GitHub\EntitiesPlayer\Updated and Working\Project_Player\Project\Project\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.93
